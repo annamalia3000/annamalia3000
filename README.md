@@ -17,12 +17,12 @@
 [React](https://github.com/annamalia3000/netology/blob/main/certificate-react.pdf)
 
 
-## Дипломная работа к профессии Frontend-разработчик «Система бронирования ж/д билетов»
+## Дипломная работа к профессии Frontend-разработчик «Система бронирования ж/д билетов» - React
 [Репозиторий](https://github.com/annamalia3000/jd-tickets)
 
 [Сайт на GitHub Pages](https://annamalia3000.github.io/jd-tickets/)
 
-## Тестовое задание Rick and Morty API
+## Тестовое задание Rick and Morty API - React
 [Репозиторий](https://github.com/annamalia3000/rick-and-morty)
 
 [Сайт на GitHub Pages](https://annamalia3000.github.io/rick-and-morty/)
