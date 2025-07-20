@@ -23,7 +23,7 @@
 [Сайт на GitHub Pages](https://annamalia3000.github.io/jd-tickets/)
 
 ## Тестовое задание Rick and Morty API
-[Репозиторий]([https://github.com/annamalia3000/jd-tickets](https://github.com/annamalia3000/rick-and-morty))
+[Репозиторий](https://github.com/annamalia3000/rick-and-morty)
 
 [Сайт на GitHub Pages](https://annamalia3000.github.io/rick-and-morty/)
 
