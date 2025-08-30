@@ -28,3 +28,6 @@
 [Сайт на GitHub Pages](https://annamalia3000.github.io/rick-and-morty/)
 
 
+## Стилизация react-компонента с помощью Tailwind
+[Multiselect component](https://github.com/annamalia3000/multiselect)
+
